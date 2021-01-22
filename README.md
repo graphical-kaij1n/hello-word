@@ -1,13 +1,3 @@
-# hello-word
-FIRST REPO TEST IS A REPO OF ME LEARNING HOW TO USE THE GIT
+# THIS IS THE INCLUDE FOLDER FOR ALL OPENGL PROGCTS
+just add in include in VC++ Locations and in libs
 
-dont think its *easy*
-**even if it is tho**
-
-## H2 tag yo
-### H3 tag ayeeee
-
-As i said once
-> bein' me suck
-
-'<addr>'
